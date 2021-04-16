@@ -11,7 +11,9 @@ My links:
 - 🌱 I’m currently studying computer science
 - 💬 Ask me about anything
 - 📫 How to reach me: 
-  Twitter: https://twitter.com/DrewNChilds
-  LinkedIn: https://www.linkedin.com/in/nadia-childs/
+    - Twitter:
+      https://twitter.com/DrewNChilds
+    - LinkedIn:
+      https://www.linkedin.com/in/nadia-childs/
 - ⚡ Fun fact: I have a twin who is also a software engineer. 
 
