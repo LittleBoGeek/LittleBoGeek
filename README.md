@@ -1,16 +1,17 @@
-### Hi there 👋
+### Greetings! 👋
 
 <!--
 **LittleBoGeek/LittleBoGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My name is Nadia. I am a tech geek turned software engineer. I like writing code and helping people and enjoy pursuing projects that allow me to combine both of those passions.
+My links:
+
+
+- 🌱 I’m currently studying computer science
+- 💬 Ask me about anything
+- 📫 How to reach me: 
+  Twitter: https://twitter.com/DrewNChilds
+  LinkedIn: https://www.linkedin.com/in/nadia-childs/
+- ⚡ Fun fact: I have a twin who is also a software engineer. 
 -->
