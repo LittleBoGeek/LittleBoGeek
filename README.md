@@ -4,8 +4,8 @@
 **LittleBoGeek/LittleBoGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Nadia. I am a tech geek turned software engineer. I like writing code and helping people and enjoy pursuing projects that allow me to combine both of those passions.
-My links:
+My name is Nadia. I am a tech enthusiast turned software engineer. I like writing code and helping people and enjoy pursuing projects that allow me to combine both of those passions.
+
 
 
 - 🌱 I’m currently studying computer science
