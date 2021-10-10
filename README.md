@@ -15,5 +15,6 @@ My name is Nadia. I am a tech enthusiast turned software engineer. I like writin
       https://twitter.com/DrewNChilds
     - LinkedIn:
       https://www.linkedin.com/in/nadia-childs/
+    - My website: https://www.ndrew-childs.codes 
 - ⚡ Fun fact: I have a twin who is also a software engineer. 
 
